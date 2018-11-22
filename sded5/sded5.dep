@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>4248988940</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\at91lib\boards\at91sam9g20-ek\at91sam9g20\AT91SAM9G20.h</file>
+            <file>$PROJ_DIR$\..\at91lib\boards\at91sam9g20-ek\at91sam9g20\chip.h</file>
+            <file>$PROJ_DIR$\..\at91lib\boards\at91sam9g20-ek\board.h</file>
+            <file>$PROJ_DIR$\..\at91lib\peripherals\pio\pio.cpp</file>
+            <file>$PROJ_DIR$\..\at91lib\peripherals\pio\pio.h</file>
+            <file>$PROJ_DIR$\..\at91lib\peripherals\usb\chap_9.cpp</file>
+            <file>$PROJ_DIR$\..\at91lib\peripherals\usb\D14.h</file>
+            <file>$PROJ_DIR$\..\at91lib\peripherals\usb\kernel.h</file>
+            <file>$PROJ_DIR$\..\at91lib\peripherals\usb\reqcode.cpp</file>
+            <file>$PROJ_DIR$\..\at91lib\peripherals\usb\reqcode.h</file>
+            <file>$PROJ_DIR$\..\at91lib\peripherals\usb\standard.h</file>
+            <file>$PROJ_DIR$\..\at91lib\peripherals\usb\USB.h</file>
+            <file>$PROJ_DIR$\..\at91lib\peripherals\usb\usb_init.cpp</file>
+            <file>$PROJ_DIR$\..\at91lib\peripherals\usb\usb_init.h</file>
+            <file>$PROJ_DIR$\_dochapi.h</file>
+            <file>$PROJ_DIR$\..\algo.icf</file>
+            <file>$PROJ_DIR$\..\common.h</file>
+            <file>$PROJ_DIR$\doch_ata.cpp</file>
+            <file>$PROJ_DIR$\doch_ata.h</file>
+            <file>$PROJ_DIR$\LCD.cpp</file>
+            <file>$PROJ_DIR$\LCD.h</file>
+            <file>$PROJ_DIR$\main.cpp</file>
+            <file>$PROJ_DIR$\main.h</file>
+            <file>$PROJ_DIR$\PROG_USB.cpp</file>
+            <file>$PROJ_DIR$\PROG_USB.h</file>
+            <file>$PROJ_DIR$\PROGPROC.cpp</file>
+            <file>$PROJ_DIR$\PROGPROC.h</file>
+            <file>$PROJ_DIR$\sded5.s</file>
+            <file>$PROJ_DIR$\sdram.icf</file>
+            <file>$PROJ_DIR$\SOCKET.cpp</file>
+            <file>$PROJ_DIR$\SOCKET.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\List\SOCKET.s</file>
+            <file>$PROJ_DIR$\Debug\List\SOCKET.lst</file>
+            <file>$PROJ_DIR$\Debug\List\PROGPROC.s</file>
+            <file>$PROJ_DIR$\Debug\List\PROGPROC.lst</file>
+            <file>$PROJ_DIR$\Debug\Obj\PROGPROC.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\PROGPROC.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\doch_ata.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\doch_ata.o</file>
+            <file>$PROJ_DIR$\Debug\List\doch_ata.s</file>
+            <file>$PROJ_DIR$\Debug\List\doch_ata.lst</file>
+            <file>$PROJ_DIR$\Debug\Obj\sded5.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\sded5.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\pio.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\doch_ata.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\LCD.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\PROG_USB.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LCD.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\pio.o</file>
+            <file>$PROJ_DIR$\Debug\List\LCD.s</file>
+            <file>$PROJ_DIR$\Debug\List\pio.s</file>
+            <file>$PROJ_DIR$\Debug\Obj\SOCKET.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SOCKET.pbi</file>
+            <file>$TOOLKIT_DIR$\lib\dl5E_aln.a</file>
+            <file>$TOOLKIT_DIR$\lib\rt5E_al.a</file>
+            <file>$TOOLKIT_DIR$\lib\dlpp5E_al_nc.a</file>
+            <file>$TOOLKIT_DIR$\lib\m5E_al.a</file>
+            <file>$PROJ_DIR$\Debug\Exe\sded5.out</file>
+            <file>$PROJ_DIR$\Debug\List\sded5.map</file>
+            <file>$PROJ_DIR$\Debug\Exe\sded5.bin</file>
+            <file>$PROJ_DIR$\Debug\Obj\PROGPROC.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\SOCKET.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\pio.pbi</file>
+            <file>$PROJ_DIR$\Debug\List\LCD.lst</file>
+            <file>$PROJ_DIR$\Debug\Obj\LCD.pbi</file>
+            <file>$PROJ_DIR$\Debug\List\main.s</file>
+            <file>$PROJ_DIR$\Debug\List\PROG_USB.s</file>
+            <file>$PROJ_DIR$\Debug\List\PROG_USB.lst</file>
+            <file>$PROJ_DIR$\Debug\Obj\PROG_USB.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\PROG_USB.pbi</file>
+            <file>$PROJ_DIR$\Debug\List\usb_init.s</file>
+            <file>$PROJ_DIR$\Debug\List\usb_init.lst</file>
+            <file>$PROJ_DIR$\cstartup.s</file>
+            <file>$PROJ_DIR$\Debug\List\cstartup.lst</file>
+            <file>$PROJ_DIR$\board.h</file>
+            <file>$PROJ_DIR$\board_cstartup_iar.s</file>
+            <file>$PROJ_DIR$\Debug\Obj\board_cstartup_iar.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\cstartup.o</file>
+            <file>$PROJ_DIR$\Debug\List\board_cstartup_iar.lst</file>
+            <file>$PROJ_DIR$\Debug\Obj\usb_init.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\reqcode.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\chap_9.__cstat.et</file>
+            <file>$PROJ_DIR$\flstruct.h</file>
+            <file>$PROJ_DIR$\msys.h</file>
+            <file>$PROJ_DIR$\part_inf.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\usb_init.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\usb_init.pbi</file>
+            <file>$PROJ_DIR$\Debug\List\reqcode.s</file>
+            <file>$PROJ_DIR$\Debug\List\reqcode.lst</file>
+            <file>$PROJ_DIR$\Debug\List\chap_9.lst</file>
+            <file>$PROJ_DIR$\Debug\List\chap_9.s</file>
+            <file>$PROJ_DIR$\Debug\Obj\chap_9.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\reqcode.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\chap_9.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\reqcode.pbi</file>
+            <file>$PROJ_DIR$\Debug\List\sded5.lst</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\Debug\List\main.lst</file>
+            <file>$PROJ_DIR$\Debug\List\pio.lst</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\at91lib\peripherals\pio\pio.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 107 55</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 48</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 1 4 83 0</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 4 2 1 0</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\at91lib\peripherals\usb\chap_9.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 102</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 99 98 100</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 90</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 0 16 4 31 20 7 22 46 33 32 108 34 24 11 10 53 2 1 105 6 30 13 9</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 16 0 4 2 1 46 53 34 33 32 31 108 105 22 20 24 30 6 10 7 13 11 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\at91lib\peripherals\usb\reqcode.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 103</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 96 97 101</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 89</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 2 33 0 10 9 1 105 11 46 7 4 53 34 6 13 16 32 31 108</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 16 0 4 2 1 46 53 34 33 32 31 108 105 10 11 7 9 6 13</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\at91lib\peripherals\usb\usb_init.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 79 80 94</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 88</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 31 0 16 6 20 11 46 24 22 7 13 4 53 33 32 108 34 10 2 1 105 30 9</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 16 0 4 2 1 46 53 34 33 32 31 108 105 22 20 24 30 6 10 7 13 11 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\doch_ata.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 41</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43 44 42</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 49</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 53 22 16 9 14 4 2 1 105 33 30 10 6 26 0 46 34 18 24 13 32 31 108 20 7 11</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 18 16 0 4 2 1 46 53 34 33 32 31 108 105 26 22 20 24 30 6 10 7 13 11 9 14</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\LCD.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 73</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 56 72 54</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 50</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 24 0 22 16 46 2 1 105 33 13 4 53 34 6 10 9 20 32 31 108 7 11 30</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 20 16 0 4 2 1 46 53 34 33 32 31 108 105 22 6 10 7 13 11 9 24 30</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 69</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 74 106 70</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 51</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 4 1 105 16 2 33 20 53 7 6 0 46 34 24 22 11 10 32 31 108 30 13 9</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 22 16 0 4 2 1 46 53 34 33 32 31 108 105 20 24 30 6 10 7 13 11 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\PROG_USB.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 78</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 75 76 77</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 52</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 16 0 1 105 30 2 33 7 46 22 4 53 34 6 11 10 24 32 31 108 20 13 9</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 24 16 0 4 2 1 46 53 34 33 32 31 108 105 22 20 6 10 7 13 11 9 30</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\PROGPROC.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 40</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 37 38 39</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 67</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 30 2 33 16 0 1 105 10 6 18 46 22 9 4 53 34 24 13 26 32 31 108 20 7 11 14</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 26 16 0 4 2 1 46 53 34 33 32 31 108 105 22 20 24 30 6 10 7 13 11 9 18 14</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\sded5.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 45 104</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 0</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\SOCKET.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 59</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 35 36 58</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 68</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 53 0 16 20 31 4 7 22 24 46 33 32 108 34 11 10 30 2 1 105 6 13 9</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30 16 0 4 2 1 46 53 34 33 32 31 108 105 22 20 24 6 10 7 13 11 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\sded5.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 65</file>
+                </tool>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 66</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 15 100 42 54 70 55 77 39 101 45 58 94 61 62 63 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\cstartup.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 86 82</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 83 1 0</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\board_cstartup_iar.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 85 87</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 83 1 0</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 64 65</file>
+                </tool>
+            </outputs>
+        </file>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\doch_ata.cpp</name>
+            <tool>C-STAT</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+</project>

@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\bin\armjlink2.dll" 
+
+"D:\Micro\XELTEK\IAR\xeltek\sded5\Debug\Exe\sded5.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\bin\armbat.dll" 
+
+--macro="D:\Micro\XELTEK\IAR\AT91SAM9G20_SDRAM.mac" 
+
+
+
+
